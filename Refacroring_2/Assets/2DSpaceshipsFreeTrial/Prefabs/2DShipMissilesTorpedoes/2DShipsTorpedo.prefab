@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 212697552582160056}
   - component: {fileID: 60827822140302670}
   - component: {fileID: 8137467906116264235}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2DShipsTorpedo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -147,7 +147,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 1
   m_UseAutoMass: 0
-  m_Mass: 0.0001
+  m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0

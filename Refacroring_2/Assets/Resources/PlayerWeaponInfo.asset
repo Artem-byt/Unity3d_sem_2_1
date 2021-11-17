@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _bullet: {fileID: 8137467906116264235, guid: cc37bc98d98663343a34aa2a097f4150, type: 3}
   _barrel: {fileID: 0}
-  _force: 1
+  _force: 100

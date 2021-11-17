@@ -17,5 +17,11 @@ namespace Asteroids
             var time = Time.deltaTime;
             _mainController.Execute(time);
         }
+
+        public void FixedUpdate()
+        {
+            var time = Time.deltaTime;
+            _mainController.FixedExecute(time);
+        }
     }
 }
